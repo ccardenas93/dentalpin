@@ -10,9 +10,6 @@
 [![pl](https://img.shields.io/badge/lang-pl-lightgrey.svg)](./README.pl.md)
 [![it](https://img.shields.io/badge/lang-it-blueviolet.svg)](./README.it.md)
 
-**Source-available (BSL 1.1) dental clinic management software, converting to Apache 2.0 four years after publication.** Patients, odontogram, scheduling,
-treatment plans, billing and a built-in AI copilot — modular, self-hosted, API-first.
-
 ### ▶ [**Try the live demo**](https://demo.dentalpin.com)
 
 Sign in with `admin@demo.clinic` / `demo1234` — full admin access to a seeded clinic.
